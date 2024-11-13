@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'JetBrains Mono', 'Montserrat';
+}
+
+
+/* About */
+
+#about-img {
+    background-color: palegoldenrod !important;
+}
+
+#about h3 {
+    letter-spacing: .25rem;
+}
+
+
+#pg {
+    background: linear-gradient(
+		rgba(0, 0, 0, 0.59),
+		rgba(0, 0, 0, 0.59)	
+	),
+	url(https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 92vh;
+}
+
+#pg p {
+    color: white;
+    letter-spacing: .25rem;
+}
+
+/* Projects */
+
+#projects {
+    background-color: #385170;
+}
+
+#projects h1 {
+    letter-spacing: 1rem;
+    color: white;
+}
+
+/* Tools */
+
+#tools {
+    background-color: #142d4c;
+}
+
+#tools h1 {
+    letter-spacing: 1rem;
+    color: white;
+}
