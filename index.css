@@ -54,3 +54,36 @@
     letter-spacing: 1rem;
     color: white;
 }
+
+.progress {
+    height: 20px;
+}
+
+/* Contacts */
+
+#form {
+    background: linear-gradient(
+		rgba(0, 0, 0, 0.59),
+		rgba(0, 0, 0, 0.59)	
+	),
+	url(https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 92vh;
+}
+
+#image-left {
+    background: linear-gradient(
+		rgba(0, 0, 0, 0.59),
+		rgba(0, 0, 0, 0.59)	
+	),
+	url(https://images.pexels.com/photos/24408910/pexels-photo-24408910/free-photo-of-message-on-screen-of-vintage-computer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 92vh;
+}
+
+#contact h1 {
+    letter-spacing: 1rem;
+    color: white;
+}
